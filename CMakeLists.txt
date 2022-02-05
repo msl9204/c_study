@@ -44,3 +44,7 @@ add_executable(9
 add_executable(10
         c_struct_lecture.c
         )
+
+add_executable(11
+        c_struct_typedef.c
+        )
