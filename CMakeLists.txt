@@ -36,3 +36,7 @@ add_executable(7
 add_executable(8
         c_charArr.c
         )
+
+add_executable(9
+        c_string_handle.c
+        )
