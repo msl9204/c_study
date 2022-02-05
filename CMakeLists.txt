@@ -48,3 +48,7 @@ add_executable(10
 add_executable(11
         c_struct_typedef.c
         )
+
+add_executable(12
+        c_pointer_to_pointer.c
+        )
