@@ -52,3 +52,11 @@ add_executable(11
 add_executable(12
         c_pointer_to_pointer.c
         )
+
+add_executable(13
+        c_array_of_pointer.c
+        )
+
+add_executable(14
+        c_pointer_to_array.c
+        )
