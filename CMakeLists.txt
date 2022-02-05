@@ -40,3 +40,7 @@ add_executable(8
 add_executable(9
         c_string_handle.c
         )
+
+add_executable(10
+        c_struct_lecture.c
+        )
