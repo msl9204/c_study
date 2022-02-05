@@ -24,3 +24,11 @@ add_executable(4
 add_executable(5
         c_pointer_op.c
         )
+
+add_executable(6
+        c_pointer_and_array.c
+        )
+
+add_executable(7
+        c_array_and_malloc.c
+        )
