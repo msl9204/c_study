@@ -16,6 +16,11 @@ add_executable(2
 add_executable(3
         c_pointer_ref.c
         )
+
 add_executable(4
         c_pointer_add.c
+        )
+
+add_executable(5
+        c_pointer_op.c
         )
