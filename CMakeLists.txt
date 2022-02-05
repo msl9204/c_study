@@ -60,3 +60,7 @@ add_executable(13
 add_executable(14
         c_pointer_to_array.c
         )
+
+add_executable(15
+        c_function_pointer.c
+        )
