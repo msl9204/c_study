@@ -32,3 +32,7 @@ add_executable(6
 add_executable(7
         c_array_and_malloc.c
         )
+
+add_executable(8
+        c_charArr.c
+        )
